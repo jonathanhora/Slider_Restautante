@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Slider Restaurante</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="containerPai">
+      <header>
+        <h2>Logo.</h2>
+        <div class="icones">
+          <img class="icones__img" src="img/lupa.png" alt="lupa" />
+          <img class="icones__img" src="img/menu.png" alt="menu" />
+        </div>
+        </header>
+        <div id="slider">
+          <div id="textos">
+            <div class="texto active">
+              <h2>Bife Grelhado</h2>
+              <p>
+                O bife grelhado é um prato clássico, suculento e saboroso,
+                temperado com sal e pimenta, e servido com legumes ou salada.
+                Uma escolha deliciosa para amantes de carne.
+              </p>
+              <button class="btn__padrao">PEDIR AGORA</button>
+            </div>
+            <div class="texto">
+              <h2>Porco Assado</h2>
+              <p>
+                O porco assado é uma iguaria rica e marcante, com carne macia e uma crosta crocante. Tempero com especiarias, é perfeito para refeições festivas, acompanhado de batatas e legumes.
+              </p>
+              <button class="btn__padrao">PEDIR AGORA</button>
+            </div>
+            <div class="texto">
+              <h2>Filé de Frango</h2>
+              <p>
+                O filé de frango é leve e suculento, temperado com ervas e grelhado à perfeição. é ideal para uma refeição saudável e pode ser servido com saladas frescas ou vegetais cozidos, oferecendo um sabor delicado e delicioso.
+              </p>
+              <button class="btn__padrao">PEDIR AGORA</button>
+            </div>
+            <div class="texto">
+              <h2>Macarrão</h2>
+              <p>
+                O macarrão é um prato clássico, versátil e saboroso, servido com molhos variados e que agrada a todos. Pode ser acompanhado por queijos, vegetais ou carnes, proporcionando uma refeição completa e deliciosa.
+              </p>
+              <button class="btn__padrao">PEDIR AGORA</button>
+            </div>            
+          </div>
+          <div id="pratos">
+            <img src="img/bife-grelhado-2_1.webp" alt="Bife grelhado" class="prato active"/>
+            <img src="img/porco_1.webp" alt="porco" class="prato "/>
+            <img src="img/file-de-frango-1_1.webp" alt="filé de frango" class="prato "/>
+            <img src="img/macarrao-1_1.webp" alt="Macarrão" class="prato "/>
+          </div>
+          <div id="navegacao">
+            <button class="btn__padrao prev"><img src="img/arrow-prev.png" alt="prev"></button>
+            <button class="btn__padrao next"><img src="img/arrow-next.png" alt="next"></button>
+          </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
