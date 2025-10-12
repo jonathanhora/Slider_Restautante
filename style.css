@@ -77,10 +77,6 @@ header{
     transition: all .3s;
 }
 
-.texto.active{
-    
-}
-
 .texto h2{
     font-size: 76px;
 }
