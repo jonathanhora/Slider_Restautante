@@ -19,5 +19,3 @@ O site apresenta quatro pratos principais. O usuário pode navegar entre eles us
 
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/795b15e7-1bb1-479e-8844-a4dd4bf201a0" />
 
-
-Desenvolvido por jonathanhora.
