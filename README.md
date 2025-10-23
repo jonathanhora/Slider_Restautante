@@ -17,5 +17,8 @@ Este projeto é um site de apresentação de pratos de restaurante, com um slide
 
 O site apresenta quatro pratos principais. O usuário pode navegar entre eles usando os botões de seta. Ao trocar de prato, tanto a imagem quanto o texto são atualizados de forma sincronizada, proporcionando uma experiência visual agradável. O botão "Pedir Agora" pode ser adaptado para integração com sistemas de pedidos online.
 
+## 
+https://jonathanhora.github.io/Slider_Restautante/
+
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/795b15e7-1bb1-479e-8844-a4dd4bf201a0" />
 
